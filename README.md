@@ -1,0 +1,2 @@
+# solix
+Technical Round Answers
